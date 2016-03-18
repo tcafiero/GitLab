@@ -8,4 +8,5 @@ void loop() {
   Serial5.println("Hello World!");
   delay(1000);
   Serial5.println("Multitask!");
+  Serial5.println("Multitask!");
 }
