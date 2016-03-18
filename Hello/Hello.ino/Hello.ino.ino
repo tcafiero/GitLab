@@ -7,4 +7,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   Serial5.println("Hello World!");
   delay(1000);
+  Serial5.println("Export!"); 
 }
